@@ -1,0 +1,3 @@
+configs/.env
+configs/credentials.json
+pytest.ini
