@@ -68,7 +68,7 @@ automated_review_analysis/
 │
 ├── README.md
 ├── requirements.txt
-└── pytest.ini (not part of submission)
+└── pytest.ini 
 ```
  
 # Module	Responsibility
